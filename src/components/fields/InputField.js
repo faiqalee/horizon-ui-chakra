@@ -25,7 +25,7 @@ export default function Default(props) {
         fontWeight='bold'
         _hover={{ cursor: "pointer" }}>
         {label}
-        <Text fontSize='sm' fontWeight='400' ms='2px'>
+        <Text fontSize='sm' fontWeight='400' ms='3px'>
           {extra}
         </Text>
       </FormLabel>
